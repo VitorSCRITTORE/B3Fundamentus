@@ -1,9 +1,9 @@
-Buscador de Ações Baratonas na Fundamentos!
+Buscador de Ações Baratonas na Fundamentus!
 
-Se liga que esse script Python é pra te ajudar a encontrar oportunidades na bolsa de valores usando o site da Fundamentos!  É como ter um garimpo na palma da mão (ou melhor, no teu computador)!
+Se liga que esse script Python é pra te ajudar a encontrar oportunidades na bolsa de valores usando o site da Fundamentus!  É como ter um garimpo na palma da mão (ou melhor, no teu computador)!
 Como funciona?
 
-    Busca Automática: O programa acessa o site da Fundamentos e pega os dados de todas as ações listadas.
+    Busca Automática: O programa acessa o site da Fundamentus e pega os dados de todas as ações listadas.
     Filtragem Topzera: Aí rola a mágica! Ele usa os critérios de análise que você definiu pra garimpar ações com bom potencial de investimento.
     Resultados na Tela: Prontinho! Na sua telinha aparecem as informações das ações que passaram pelo filtro, te ajudando a decidir qual delas é a mais interessante pra você.
 
@@ -11,7 +11,7 @@ Como funciona?
 
     Python: A linguagem de programação usada pra dar vida ao script.
     urllib.request: Biblioteca pra fazer requisições web e pegar os dados do site.
-    lxml.html: Biblioteca pra interpretar o código HTML da página da Fundamentos.
+    lxml.html: Biblioteca pra interpretar o código HTML da página da Fundamentus.
     collections.OrderedDict: Pra manter a ordem dos dados lidos do site.
     decimal: Biblioteca pra lidar com números decimais de forma mais precisa.
 
